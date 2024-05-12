@@ -4,6 +4,8 @@ numpy
 openpyxl
 pandas
 pandas_ta
+polars
+pyarrow
 pycoingecko
 requests
 scikit-learn
