@@ -1,0 +1,10 @@
+cryptocmd
+matplotlib
+numpy
+openpyxl
+pandas
+pandas_ta
+pycoingecko
+requests
+scikit-learn
+xgboost
