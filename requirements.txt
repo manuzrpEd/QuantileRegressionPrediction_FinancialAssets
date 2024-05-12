@@ -8,3 +8,4 @@ pycoingecko
 requests
 scikit-learn
 xgboost
+yfinance 
